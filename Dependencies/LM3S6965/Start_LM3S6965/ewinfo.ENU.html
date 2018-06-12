@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.w3.org/MarkUp/SCHEMA/xhtml11.xsd"
+     xml:lang="en">
+  <head>
+    <title>SEGGER Microcontroller</title>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="$TOOLKIT_DIR$/RTOS/SEGGER/style.css">
+  </head>
+  <body>
+    <div class="top">
+      <br>
+      <table>
+        <tr>
+          <td><img src="$TOOLKIT_DIR$/RTOS/SEGGER/images/logo.png"></td>
+          <td><h1>&nbsp;The Embedded Experts</h1></td>
+        </tr>
+      </table>
+      <img src="$TOOLKIT_DIR$/RTOS/SEGGER/images/title.png">
+    </div>
+    <div class="middle">
+      <div class="content">
+        <div class="breadcrumb"><a href="$TOOLKIT_DIR$/doc/infocenter/index.ENU.html">Information Center for ARM</a> | Integrated RTOSes | <a href="$TOOLKIT_DIR$/RTOS/SEGGER/RTOSInfo.ENU.html">SEGGER example projects</a> | <a href="$TOOLKIT_DIR$/RTOS/SEGGER/ExampleDirInfo.ENU.xml_auto">embOS</a></div>
+        <h2>embOS documentation:</h2>
+        <div style="padding-left:8px;">
+          <img src="$TOOLKIT_DIR$/RTOS/SEGGER/images/icon-pdf.jpg"> <a href="$TOOLKIT_DIR$/RTOS/SEGGER/Doc/UM01001_embOS.pdf">User and reference guide for embOS</a>
+          <br><img src="$TOOLKIT_DIR$/RTOS/SEGGER/images/icon-pdf.jpg"> <a href="$TOOLKIT_DIR$/RTOS/SEGGER/Doc/UM01014_embOS_CortexM_IAR.pdf">User guide for embOS and IAR Embedded Workbench</a>
+        </div>
+        <h2>Supported hardware:</h2>
+        <div style="padding-left:8px;">
+          The sample project for TI (Luminary) LM3S6965 is prepared to run on a TI (Luminary) LM3S6965 eval board, but may be used on other target hardware as well.
+          <br>Using different target hardware may require modifications.
+        </div>
+        <h2>Configurations:</h2>
+        <div style="padding-left:8px; padding-top:8px;">
+          <b>- Debug_FLASH:</b><br>
+          <div style="padding-left:16px;">
+            This configuration is prepared for download into internal
+            Flash using J-Link.
+            <br>An embOS debug and profiling library is used.
+            <br>To use SEGGER SystemView with this configuration, configure
+                SystemViewer for LM3S6965 as target device and SWD at
+                2000 kHz as target interface.
+          </div>
+        </div>
+        <div style="padding-left:8px; padding-top:8px;">
+          <b>- Release_FLASH:</b><br>
+          <div style="padding-left:16px;">
+            This configuration is prepared for download into internal
+            Flash using J-Link.
+            <br>An embOS release library is used.
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="bottom">
+      <div class="footer">&copy; 2010 - 2017, <a target="_blank" href="http://www.segger.com">www.segger.com</a>, All rights reserved.</div>
+    </div>
+  </body>
+</html>

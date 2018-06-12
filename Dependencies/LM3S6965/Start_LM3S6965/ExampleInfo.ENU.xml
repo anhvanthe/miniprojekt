@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infocenter_data version="1.0">
+  <iar_name>embOS example project</iar_name>
+  <iar_description>embOS start project for the TI (Luminary) LM3S6965.</iar_description>
+  <iar_curdir>$CUR_DIR$</iar_curdir>
+</infocenter_data>

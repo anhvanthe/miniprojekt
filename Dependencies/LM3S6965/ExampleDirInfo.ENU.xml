@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infocenter_data version="1.0">
+  <iar_template_variant>AIS</iar_template_variant>
+  <iar_name>LM3S6965</iar_name>                          
+  <iar_title>Example projects for TI (Luminary) LM3S6965.</iar_title>            
+  <iar_description>
+  &lt;br&gt;&lt;b&gt;A ready-to-go RTOS start project is included.&lt;/b&gt;  
+  &lt;p&gt;    
+    &lt;br&gt;Additional free trial packages for the TI (Luminary) LM3S6965 and our middleware components are available for download.
+    &lt;br&gt;The packages include some or all of the following components:
+    &lt;ul&gt;
+      &lt;li&gt;embOS - Real Time Operating System / RTOS
+      &lt;li&gt;embOS/IP - TCP/IP Stack
+      &lt;li&gt;emWin - Graphic Software and GUI
+      &lt;li&gt;emFile - File System
+      &lt;li&gt;emSecure - Digital Signature Suite
+      &lt;li&gt;emSSL - Transport Layer Security
+      &lt;li&gt;emUSB Device - USB Device Stack
+      &lt;li&gt;emUSB Host - USB Host Stack
+      &lt;li&gt;emCompress - Compression System
+      &lt;li&gt;emLib - Helper Libraries
+      &lt;li&gt;emLoad - Bootloader
+      &lt;li&gt;emModbus - Modbus Stack
+    &lt;/ul&gt;
+    Please visit &lt;a href="http://www.segger.com/empack.html"&gt;www.segger.com&lt;/a&gt; to download additional packages.
+  &lt;/p&gt;    
+  </iar_description>
+</infocenter_data>
