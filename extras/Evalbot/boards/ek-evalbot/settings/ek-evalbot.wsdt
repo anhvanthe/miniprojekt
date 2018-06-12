@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>driverlib-cm3/Debug</Project><Project>qs-autonomous/Debug</Project><Project>motor_demo/Debug</Project><Project>simple_display/Debug</Project><Project>sound_demo/Debug</Project></CurrentConfigs><CurrentProj>driverlib-cm3</CurrentProj><OverviewSelected>1</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>209</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>989</ColumnWidth1><ColumnWidth2>263</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1319</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7975-18980</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>&lt;ws&gt;/chronos_drive</ExpandedNode><ExpandedNode>&lt;ws&gt;/driverlib-cm3</ExpandedNode><ExpandedNode>motor_demo</ExpandedNode><ExpandedNode>qs-autonomous</ExpandedNode><ExpandedNode>simple_display</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25645-19673</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-14616-14864</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane/><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0262B9D0><key>iaridepm.enu1</key></Toolbar-0262B9D0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>629</Bottom><Right>283</Right><x>-2</x><y>-2</y><xscreen>156</xscreen><yscreen>159</yscreen><sizeHorzCX>148008</sizeHorzCX><sizeHorzCY>191336</sizeHorzCY><sizeVertCX>270398</sizeVertCX><sizeVertCY>759326</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>157</Bottom><Right>1056</Right><x>-2</x><y>-2</y><xscreen>1058</xscreen><yscreen>159</yscreen><sizeHorzCX>1003795</sizeHorzCX><sizeHorzCY>191336</sizeHorzCY><sizeVertCX>148008</sizeVertCX><sizeVertCY>191336</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
