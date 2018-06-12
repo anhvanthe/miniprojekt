@@ -5,75 +5,84 @@
     <configuration>
         <name>Debug</name>
         <outputs>
-            <file>$PROJ_DIR$\Debug\Obj\osram128x64x4.o</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
-            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\driverlib.a</file>
-            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\hw_types.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$TOOLKIT_DIR$\config\linker\TexasInstruments\LM3S6965.icf</file>
+            <file>$PROJ_DIR$\Debug\Obj\miniprojekt.pbd</file>
             <file>$PROJ_DIR$\main.cpp</file>
-            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\hw_ssi.h</file>
-            <file>$PROJ_DIR$\Debug\Exe\miniprojekt.bin</file>
-            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\ssi.h</file>
             <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\osram128x64x4.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\rit128x96x4.c</file>
+            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\sysctl.h</file>
+            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\osram128x64x4.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
             <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\rit128x96x4.h</file>
-            <file>$PROJ_DIR$\Debug\Exe\miniprojekt.out</file>
-            <file>$PROJ_DIR$\extras\Evalbot\boards\ek-evalbot\drivers\display96x16x1.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
             <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\hw_memmap.h</file>
             <file>$PROJ_DIR$\Debug\Obj\display96x16x1.pbi</file>
-            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\miniprojekt.pbd</file>
-            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
-            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\debug.h</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
-            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\rit128x96x4.c</file>
-            <file>$PROJ_DIR$\Debug\Obj\rit128x96x4.o</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
-            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\osram128x64x4.h</file>
-            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\hw_sysctl.h</file>
-            <file>$PROJ_DIR$\Debug\Obj\osram128x64x4.pbi</file>
-            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
-            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
             <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\gpio.h</file>
-            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
-            <file>$PROJ_DIR$\Debug\Obj\rit128x96x4.pbi</file>
-            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
-            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
-            <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
-            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\sysctl.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\osram128x64x4.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\osram128x64x4.o</file>
+            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\hw_sysctl.h</file>
+            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\hw_ssi.h</file>
+            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\hw_types.h</file>
             <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\miniprojekt.bin</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\debug.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\miniprojekt.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\rit128x96x4.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\rit128x96x4.o</file>
+            <file>$PROJ_DIR$\extras\Evalbot\boards\ek-evalbot\drivers\display96x16x1.c</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\driverlib.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$TOOLKIT_DIR$\RTOS\SEGGER\TI\LM3S6965\Start_LM3S6965\Application\Display\ssi.h</file>
             <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
             <file>$PROJ_DIR$\Debug\List\miniprojekt.map</file>
-            <file>$TOOLKIT_DIR$\config\linker\TexasInstruments\LM3S6965.icf</file>
         </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 29 43</file>
+                </tool>
+            </outputs>
+        </file>
         <file>
             <name>$PROJ_DIR$\main.cpp</name>
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 10</file>
+                    <file> 27</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 24</file>
+                    <file> 16</file>
                 </tool>
                 <tool>
                     <name>__cstat</name>
-                    <file> 1</file>
+                    <file> 42</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 14 29 3 39 33 11 17 21 16 4 23 20 19 32 36 38 41 27</file>
+                    <file> 12 18 20 7 14 10 37 11 9 36 23 40 0 28 22 41 39 25</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 38 33 27 3 17 16 4 21 29 39 11 32 41 19 23 20 14 36</file>
+                    <file> 11 41 14 25 20 37 0 23 18 7 10 28 39 9 36 40 12 22</file>
                 </tool>
             </inputs>
         </file>
@@ -82,42 +91,8 @@
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 0</file>
+                    <file> 17</file>
                 </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 30</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ICCARM</name>
-                    <file> 6 14 29 3 22 33 8 39 28</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\Debug\Exe\miniprojekt.out</name>
-            <outputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 42</file>
-                </tool>
-                <tool>
-                    <name>OBJCOPY</name>
-                    <file> 7</file>
-                </tool>
-            </outputs>
-            <inputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 43 10 0 26 2 31 34 40 37</file>
-                </tool>
-            </inputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\extras\Evalbot\boards\ek-evalbot\drivers\display96x16x1.c</name>
-            <outputs>
                 <tool>
                     <name>BICOMP</name>
                     <file> 15</file>
@@ -126,7 +101,11 @@
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 41 21 16 4 23 20 19 27</file>
+                    <file> 19 12 18 20 26 14 38 7 8</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 8 26 18 38 12 20 14 7 19</file>
                 </tool>
             </inputs>
         </file>
@@ -135,28 +114,53 @@
             <outputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 26</file>
+                    <file> 32</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 35</file>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 10 26 7 18 38 12 20 14 19</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\miniprojekt.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 2 27 17 32 35 34 31 21 1</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\extras\Evalbot\boards\ek-evalbot\drivers\display96x16x1.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13</file>
                 </tool>
             </outputs>
             <inputs>
                 <tool>
                     <name>ICCARM</name>
-                    <file> 6 14 29 3 22 33 8 39 11</file>
+                    <file> 39 11 9 36 23 40 0 25</file>
                 </tool>
             </inputs>
-        </file>
-        <file>
-            <name>[ROOT_NODE]</name>
-            <outputs>
-                <tool>
-                    <name>ILINK</name>
-                    <file> 42 12</file>
-                </tool>
-            </outputs>
         </file>
         <forcedrebuild>
             <name>$PROJ_DIR$\extras\Evalbot\boards\ek-evalbot\drivers\display96x16x1.c</name>
